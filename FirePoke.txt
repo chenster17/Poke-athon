@@ -1,0 +1,5 @@
+Arcanine,900,fire,grass,water,25,350,300,3,4
+Magcargo,850,fire,grass,water,25,320,350,2,2
+Magmortar,900,fire,grass,water,25,340,280,3,2
+Ninetails,950,fire,grass,water,25,360,300,2,2
+Rapidash,850,fire,grass,water,25,320,270,2,3

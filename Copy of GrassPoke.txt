@@ -1,0 +1,5 @@
+Machamp,300,ground,fire,water,10,70,30,2,4
+Metapod,500,grass,water,fire,10,30,60,2,4
+Scizor,400,steel,ground,water,10,60,40,2,5
+Scyther,400,grass,water,fire,10,50,30,3,3
+Victreebel,300,grass,water,fire,10,60,50,2,3

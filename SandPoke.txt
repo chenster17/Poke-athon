@@ -1,0 +1,5 @@
+Golem,700,ground,fire,water,20,200,230,2,4
+Kabutops,600,ground,fire,water,20,210,180,2,6
+Nidoking,650,ground,fire,water,20,290,250,2,2
+Nidoqueen,650,ground,fire,water,20,280,260,2,5
+Steelix,700,steel,ground,water,20,300,270,2,3

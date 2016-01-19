@@ -1,0 +1,5 @@
+Dragonite,1000,normal,,,30,380,370,3,3
+Metagross,1100,psychic,,,30,370,370,3,2
+Milotic,970,water,fire,grass,30,350,380,2,2
+Salamence,1000,fire,grass,water,30,380,340,2,5
+Tyranitar,1200,ground,fire,water,30,400,200,3,3

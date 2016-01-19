@@ -1,0 +1,5 @@
+Cloyster,650,water,fire,grass,15,140,170,2,4
+Golduck,500,water,fire,grass,15,160,140,2,6
+Gyarados,550,water,fire,grass,15,170,140,2,3
+Kingdra,550,water,fire,grass,15,180,125,2,3
+Tentacruel,500,water,fire,grass,15,160,140,2,4
